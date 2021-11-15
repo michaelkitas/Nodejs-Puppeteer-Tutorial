@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^10.4.0",
-    "puppeteer-cluster": "^0.22.0"
+    "puppeteer-cluster": "^0.22.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0"
   }
 }
